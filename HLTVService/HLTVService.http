@@ -1,0 +1,6 @@
+@HLTVService_HostAddress = http://localhost:5070
+
+GET {{HLTVService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
